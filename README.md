@@ -58,3 +58,9 @@ Character
     ├── face-main
     ├── eye-left
     └── eye-right
+
+## 在线体验
+
+无需安装 Skill，点击即可体验：
+
+[打开角色动画实验室][https://zishuouhao.github.io/character-motion-studio-skill/](https://zishuouhao.github.io/character-motion-studio-skill/)
