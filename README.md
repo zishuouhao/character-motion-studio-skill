@@ -48,6 +48,7 @@ SVG 里先写的在最下面，后写的盖在上面。口诀：背景 → 背�
 成对部件加 -left / -right
 
 举例：
+
 <img width="774" height="465" alt="Clipboard_Screenshot_1788857838" src="https://github.com/user-attachments/assets/d7d3404f-8139-4dc3-8ce3-a2fc80e7dbf4" />
 
 
@@ -67,6 +68,7 @@ SVG 里先写的在最下面，后写的盖在上面。口诀：背景 → 背�
 细分后缀	子部件用 -main / -front / -upper 等	body-main / hair-front
 
 连接符	一律小写连字符，不用驼峰/下划线	arm-left-upper
+
 
 二、状态枚举（state-*）
 
@@ -102,9 +104,10 @@ state-excited	兴奋
 
 state-tired	疲惫
 
+
 三、部件枚举
 
-头部 / Head
+1.头部 / Head
 
 英文	中文
 
@@ -114,7 +117,8 @@ hair-front	前发
 
 hair-back	后发
 
-face-main	面部
+
+2.face-main	面部
 
 eye-left / eye-right	左眼 / 右眼
 
@@ -130,7 +134,8 @@ ear-left / ear-right	左耳 / 右耳
 
 blush	腮红
 
-躯干 / Body
+
+3.躯干 / Body
 
 英文	中文
 
@@ -142,7 +147,8 @@ neck	脖子
 
 chest	胸部
 
-四肢 / Limbs
+
+4.四肢 / Limbs
 
 英文	中文
 
@@ -158,7 +164,8 @@ leg-left-thigh / leg-left-shin	左大腿 / 左小腿
 
 foot-left / foot-right	左脚 / 右脚
 
-其他 / Extras
+
+5.其他 / Extras
 
 英文	中文
 
