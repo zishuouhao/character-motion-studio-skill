@@ -87,57 +87,93 @@ state-surprised	惊讶
 state-thinking	思考
 
 state-talking	说话
+
 state-sleeping	睡觉
+
 state-walk	行走
+
 state-run	奔跑
+
 state-jump	跳跃
+
 state-blink	眨眼
+
 state-excited	兴奋
+
 state-tired	疲惫
 
 三、部件枚举
+
 头部 / Head
 
 英文	中文
+
 head / head-main	头部主体
+
 hair-front	前发
+
 hair-back	后发
+
 face-main	面部
+
 eye-left / eye-right	左眼 / 右眼
+
 eye-white / eye-pupil	眼白 / 瞳孔
+
 brow-left / brow-right	左眉 / 右眉
+
 nose	鼻子
+
 mouth	嘴巴
+
 ear-left / ear-right	左耳 / 右耳
+
 blush	腮红
 
 躯干 / Body
 
 英文	中文
+
 body-main	躯干主体
+
 body-top / body-bottom	上身 / 下身
+
 neck	脖子
+
 chest	胸部
 
 四肢 / Limbs
 
 英文	中文
+
 arm-left / arm-right	左臂 / 右臂
+
 arm-left-upper / arm-left-fore	左上臂 / 左前臂
+
 hand-left / hand-right	左手 / 右手
+
 leg-left / leg-right	左腿 / 右腿
+
 leg-left-thigh / leg-left-shin	左大腿 / 左小腿
+
 foot-left / foot-right	左脚 / 右脚
 
 其他 / Extras
 
 英文	中文
+
 tail	尾巴
+
 wing-left / wing-right	左翼 / 右翼
+
 horn	角
+
 accessory-hat	帽子
+
 accessory-glasses	眼镜
+
 accessory-scarf	围巾
+
 accessory-bag	背包
 
 
