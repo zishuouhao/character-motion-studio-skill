@@ -1,4 +1,4 @@
-<img width="774" height="465" alt="Clipboard_Screenshot_1788857838" src="https://github.com/user-attachments/assets/d7d3404f-8139-4dc3-8ce3-a2fc80e7dbf4" /># Character Motion Studio Skill
+# Character Motion Studio Skill
 
 用于把 2–10 个 SVG 或已命名的 Figma Frames 制作成角色状态动画。
 
@@ -46,6 +46,7 @@ SVG 里先写的在最下面，后写的盖在上面。口诀：背景 → 背�
 阴影后缀：-shadow（投在别处的影子）/ -shadow-cast（投到地面的落影）
 成对部件加 -left / -right
 举例：
+<img width="774" height="465" alt="Clipboard_Screenshot_1788857838" src="https://github.com/user-attachments/assets/d7d3404f-8139-4dc3-8ce3-a2fc80e7dbf4" />
 【你的元素	命名	    	                            说明】
 【背景装饰物	bg-deco	                	            背景层加 bg-】
 【装饰物阴影	bg-deco-shadow		                    跟在主人后面加 -shadow】
