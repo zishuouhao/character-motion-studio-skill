@@ -107,7 +107,7 @@ state-tired	疲惫
 
 三、部件枚举
 
-1.头部 / Head
+【头部 / Head】
 
 英文	中文
 
@@ -118,7 +118,7 @@ hair-front	前发
 hair-back	后发
 
 
-2.face-main	面部
+【face-main	面部】
 
 eye-left / eye-right	左眼 / 右眼
 
@@ -135,7 +135,7 @@ ear-left / ear-right	左耳 / 右耳
 blush	腮红
 
 
-3.躯干 / Body
+【躯干 / Body】
 
 英文	中文
 
@@ -148,7 +148,7 @@ neck	脖子
 chest	胸部
 
 
-4.四肢 / Limbs
+【四肢 / Limbs】
 
 英文	中文
 
@@ -165,7 +165,7 @@ leg-left-thigh / leg-left-shin	左大腿 / 左小腿
 foot-left / foot-right	左脚 / 右脚
 
 
-5.其他 / Extras
+【其他 / Extras】
 
 英文	中文
 
